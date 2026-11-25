@@ -1,0 +1,14 @@
+﻿[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]serSettings/
+.utmp/
+.vsconfig
+*.csproj
+*.sln
+*.apk
+*.zip
+UpgradeLog.htm
